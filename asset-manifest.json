@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/goit-react-redux/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-redux/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-redux/static/css/main.41a8413d.css",
+    "main.js": "/goit-react-redux/static/js/main.8047edf1.js",
+    "static/js/433.3e820402.chunk.js": "/goit-react-redux/static/js/433.3e820402.chunk.js",
+    "static/js/611.cbe73145.chunk.js": "/goit-react-redux/static/js/611.cbe73145.chunk.js",
+    "static/js/131.5102b27b.chunk.js": "/goit-react-redux/static/js/131.5102b27b.chunk.js",
     "index.html": "/goit-react-redux/index.html",
-    "main.7acaea2f.css.map": "/goit-react-redux/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-redux/static/js/main.07d3183d.js.map"
+    "main.41a8413d.css.map": "/goit-react-redux/static/css/main.41a8413d.css.map",
+    "main.8047edf1.js.map": "/goit-react-redux/static/js/main.8047edf1.js.map",
+    "433.3e820402.chunk.js.map": "/goit-react-redux/static/js/433.3e820402.chunk.js.map",
+    "611.cbe73145.chunk.js.map": "/goit-react-redux/static/js/611.cbe73145.chunk.js.map",
+    "131.5102b27b.chunk.js.map": "/goit-react-redux/static/js/131.5102b27b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.41a8413d.css",
+    "static/js/main.8047edf1.js"
   ]
 }
